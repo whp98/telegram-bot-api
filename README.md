@@ -6,6 +6,11 @@ If you've got any questions about bots or would like to report an issue with you
 
 Please note that only global Bot API issues that affect all bots are suitable for this repository.
 
+*This is an edit version of  telegram-bot-api server to support use http proxy running on local port 20003.*
+
+*You can build it then it will connect to http://127.0.0.1:20003.*
+
+
 ## Table of Contents
 - [Installation](#installation)
 - [Dependencies](#dependencies)
